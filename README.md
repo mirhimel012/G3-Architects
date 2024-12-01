@@ -1,1 +1,3 @@
-G3-Architects Website live Link: https://himelmia535.github.io/G3-Architects/
+Website Name: G3-Architects
+<br>
+Live Site URL: https://mirhimel012.github.io/G3-Architects/
